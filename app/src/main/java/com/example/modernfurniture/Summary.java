@@ -76,7 +76,7 @@ public class Summary extends AppCompatActivity {
                     }
                 });
 
-        /*db.collection("Orders").get().addOnSuccessListener(new OnSuccessListener<QuerySnapshot>() {
+        db.collection("Orders").get().addOnSuccessListener(new OnSuccessListener<QuerySnapshot>() {
             @Override
             public void onSuccess(QuerySnapshot queryDocumentSnapshots) {
                 if (!queryDocumentSnapshots.isEmpty()) {
@@ -115,7 +115,7 @@ public class Summary extends AppCompatActivity {
                 }
 
             }
-        });*/
+        });
 
     }
 }

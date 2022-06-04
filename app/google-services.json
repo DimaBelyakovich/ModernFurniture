@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "161840568976",
-    "project_id": "modernfurniture-ca3cb",
-    "storage_bucket": "modernfurniture-ca3cb.appspot.com"
+    "project_number": "574695771634",
+    "project_id": "modernfurniture-d9e48",
+    "storage_bucket": "modernfurniture-d9e48.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:161840568976:android:d888a0ba5b6fb561db1615",
+        "mobilesdk_app_id": "1:574695771634:android:1728937761dd3351362f6b",
         "android_client_info": {
           "package_name": "com.example.modernfurniture"
         }
       },
       "oauth_client": [
         {
-          "client_id": "161840568976-insmb79j2csvvjm5lk4t0pn90s1cqvop.apps.googleusercontent.com",
+          "client_id": "574695771634-ltkbfc0d165gob93v6ukj21he6f9vlsi.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAtCMlwtpNpO3mVULhgLx6SuRNUiEaHYug"
+          "current_key": "AIzaSyDwqTVchf-oExlOThW19ep53XOK3Iyxjjw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "161840568976-insmb79j2csvvjm5lk4t0pn90s1cqvop.apps.googleusercontent.com",
+              "client_id": "574695771634-ltkbfc0d165gob93v6ukj21he6f9vlsi.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

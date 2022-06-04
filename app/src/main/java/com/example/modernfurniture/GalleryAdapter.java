@@ -1,5 +1,6 @@
 package com.example.modernfurniture;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
 import android.view.LayoutInflater;
@@ -47,7 +48,7 @@ public class GalleryAdapter extends RecyclerView.Adapter<GalleryAdapter.GalleryV
     }
 
     @Override
-    public void onBindViewHolder(@NonNull GalleryViewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull GalleryViewHolder holder, @SuppressLint("RecyclerView") int position) {
         Products current = filteredList.get(position);
         holder.gname.setText(String.valueOf(current.getName()));
         holder.Gprice.setText(String.valueOf(current.getPrice()));
